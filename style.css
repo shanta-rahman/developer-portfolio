@@ -1,0 +1,46 @@
+.title {
+    color: aqua;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Finlandica', sans-serif;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    /* padding-left: 5px; */
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+    /* margin: 0%; */
+}
+
+.top-banner {
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(170, 16, 16, 0.781), tomato);
+    border-radius: 10px;
+    padding: 5px 8px;
+    color: bisque;
+    margin-top: 10px;
+}
+
+.dream-big {
+    background-image: url(/images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
